@@ -46,3 +46,5 @@ f(false); // returns 'undefined'
 ## How to add function types in typescript?
 
 ## Discuss Generics in Typescript.
+
+## What are intersection types of typescript?
