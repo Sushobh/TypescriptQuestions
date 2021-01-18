@@ -8,7 +8,7 @@
 
 ## Different ways of defining an array? 
 
-    ```ts
+    ```typescript
     let list: number[] = [1, 2, 3];
     ```
    
