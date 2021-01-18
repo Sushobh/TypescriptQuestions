@@ -11,10 +11,4 @@
     ```ts
     let list: number[] = [1, 2, 3];
     ```
-    
-    and 
-    
-    ```ts
-    let list: Array<number> = [1, 2, 3];
-    ```
    
