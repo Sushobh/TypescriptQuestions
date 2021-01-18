@@ -44,3 +44,5 @@ f(false); // returns 'undefined'
 ## What is the difference between const and readonly?
 
 ## How to add function types in typescript?
+
+## Discuss Generics in Typescript.
