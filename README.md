@@ -48,3 +48,5 @@ f(false); // returns 'undefined'
 ## Discuss Generics in Typescript.
 
 ## What are intersection types of typescript?
+
+# [Difference between var and let] (https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var)
