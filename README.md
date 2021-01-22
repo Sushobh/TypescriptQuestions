@@ -194,7 +194,7 @@ However, with dot notation, this doesn't happen. `mouse` does not have a key cal
 
 ---
 
-###### 6. What's the output?
+## What's the output?
 
 ```javascript
 let c = { greeting: 'Hey!' };
