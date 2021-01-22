@@ -1,6 +1,6 @@
 # TypescriptQuestions
 
-*Some greate questions from https://github.com/lydiahallie/javascript-questions have been copied here *
+*Some greate questions from https://github.com/lydiahallie/javascript-questions have been copied here*
 
 
 
