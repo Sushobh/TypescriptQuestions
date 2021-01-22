@@ -1,5 +1,9 @@
 # TypescriptQuestions
 
+*Some greate questions from https://github.com/lydiahallie/javascript-questions have been copied here *
+
+
+
 ## What are the built in data types of typescript?
 
 ## What are Union Types in Typescript?
