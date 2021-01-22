@@ -49,4 +49,6 @@ f(false); // returns 'undefined'
 
 ## What are intersection types of typescript?
 
-# [Difference between var and let] (https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var)
+## Difference between var and let?
+   
+   [Difference between var and let](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var) 
