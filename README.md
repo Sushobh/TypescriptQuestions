@@ -55,7 +55,7 @@ f(false); // returns 'undefined'
    
 ---
 
-###### 1. What's the output?
+## What's the output?
 
 ```javascript
 function sayHi() {
